@@ -8,7 +8,7 @@ To use the code:
 
 1. **Clone the repository**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/simenklw/MasterThesis.git
 
 2. **Install the requirements**
    - Python packages are listed in requirements.txt. Install them using

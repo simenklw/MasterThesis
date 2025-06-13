@@ -25,3 +25,5 @@ The necessary data is provided by the Department of Biology at NTNU and the Gjæ
 - Preprocessing for the two-step approach: Run dataloader.R
 - Fitting the animal model: Run INLA.R
 
+The Python files contain examples of using ridge regression, XGBoost, t-SNE, and the autoencoder used in the thesis. The file "split.py" contains helper functions. 
+
